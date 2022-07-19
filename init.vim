@@ -19,6 +19,8 @@ Plug 'neoclide/coc.nvim',{'branch': 'release'}
 Plug 'https://github.com/ap/vim-css-color.git'
 Plug 'townk/vim-autoclose'
 Plug 'frazrepo/vim-rainbow'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 Plug 'eslint/eslint'
 call plug#end()
 
